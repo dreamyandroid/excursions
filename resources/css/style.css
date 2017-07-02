@@ -2,6 +2,28 @@ body {
   background-color: black;
   font-family: Verdana, sans-serif;
 }
-p {
+p, h1, span {
   text-align: center;
+}
+.banner {
+  font-size: 50px;
+  font-weight: normal;
+  color: White;
+}
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+.heading {
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+.description {
+  font-size: 21px;
+  color: Gray;
+}
+footer {
+  text-align: right;
+  color: Gray;
 }
