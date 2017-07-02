@@ -10,7 +10,7 @@ p, h1, span {
   font-weight: normal;
   color: White;
 }
-.link {
+.link a{
   color: aquamarine;
   font-size: 16px;
 }
